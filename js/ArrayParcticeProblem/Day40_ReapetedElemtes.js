@@ -8,4 +8,4 @@ function isRepeated(number){
   if(isRepeated(i)) array.push(i);
   }
   
-  console.log(array);
+  console.log(array);//its like a multiples of 11
